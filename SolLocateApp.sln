@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateApp", "LocateApp\LocateApp.csproj", "{13A28B42-6120-49FF-80FB-75176316C746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateApp.Tests", "LocateApp.Tests\LocateApp.Tests.csproj", "{C3871ED2-A281-4C3B-90F7-8739424B69E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A28B42-6120-49FF-80FB-75176316C746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A28B42-6120-49FF-80FB-75176316C746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A28B42-6120-49FF-80FB-75176316C746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A28B42-6120-49FF-80FB-75176316C746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3871ED2-A281-4C3B-90F7-8739424B69E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3871ED2-A281-4C3B-90F7-8739424B69E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3871ED2-A281-4C3B-90F7-8739424B69E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3871ED2-A281-4C3B-90F7-8739424B69E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A8EAF8-03E1-4A0F-9DC1-0D26427D3983}
+	EndGlobalSection
+EndGlobal
