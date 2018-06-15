@@ -11,5 +11,8 @@ namespace LocateApp.Models
         public string Eircode { get; set; }
         public string Address { get; set; }
         public string Phone { get; set; }
+
+        //Working on code and testing branch
+        //Has more changed
     }
 }
