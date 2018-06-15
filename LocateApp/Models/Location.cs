@@ -14,6 +14,6 @@ namespace LocateApp.Models
 
         //Working on code and testing branch
         //Has more changed
-        //another test
+        //another test 2
     }
 }
